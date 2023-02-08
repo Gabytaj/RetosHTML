@@ -43,6 +43,10 @@ body {
     /* frameBorder: 0;
     allowfullscreen: ""; */
 }
+.Olist-1 {
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+}
 a {
     font-weight: 300;
     font-size: 1.2em;
@@ -50,6 +54,8 @@ a {
     text-decoration: none;
     background-color: #2B3A55;
     padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
     border-radius: 10px;
 
 }
