@@ -1,20 +1,23 @@
 body {
     font-family: 'Kalam', cursive;
-    text-align: center;
+
     background-color: #FFF5E4;
 }
 .header {
+    text-align: center;
     background-color: #FFC4C4;
     /* border:solid #850E35;
     border-radius: 5%; */
 
 }
 #title-1  {
+    text-align: center;
     color: #850E35;
     font-weight: 600;
     font-size: 3em;
 }
 #sub-title-1  {
+    text-align: center;
     color: #850E35;
     font-weight: 400;
 }
@@ -23,6 +26,7 @@ body {
     font-size: 3em;
 }
 #content-1 {
+    text-align: center;
     font-family: 'Poppins', sans-serif;
     font-weight: 200;
 }
@@ -38,4 +42,19 @@ body {
 
     /* frameBorder: 0;
     allowfullscreen: ""; */
+}
+a {
+    font-weight: 300;
+    font-size: 1.2em;
+    color: #CE7777;
+    text-decoration: none;
+    background-color: #2B3A55;
+    padding: 1px;
+    border-radius: 10px;
+
+}
+a:hover {
+    transition: .2s;
+    color: #2B3A55;
+    background-color: #CE7777;
 }
